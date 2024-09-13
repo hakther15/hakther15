@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakther15
-- 👀 I’m interested in front-end developing and web design
-- 🌱 I’m currently learning React.js, JavaScript, and web design and development
+- 👀 I’m interested in full-stack development
+- 🌱 I’m expanding my knowledge in Java, SQL, HTML/CSS/JavaScript, Vue.js, React.js, and Unit Testing
 - 📫 You can reach me at hakther15@gmail.com
 
 <!---

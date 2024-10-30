@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakther15
 - 👀 I’m interested in full-stack development
-- 🌱 I’m expanding my knowledge in Java, SQL, HTML/CSS/JavaScript, Vue.js, React.js, and Unit Testing
+- 🌱 I’m continuing to expland my knowledge in Java, JavaScript (Vue.js and React.js), front end development, unit testing, and web service API! 
 - 📫 You can reach me at hakther15@gmail.com
 
 <!---

@@ -11,7 +11,7 @@
     <li>Completed 30-week bootcamp in Java and 12-week workshop in Web Development and Responsive Design - and ready to learn more!</li>
   </ul>
   <h3>My Stacks</h3>
-  <h4>Back-End and Frameworks</h4>
+  <h5>Back-End and Frameworks</h5>
   <div >
 	<table>
 		<tr>
@@ -20,7 +20,7 @@
 		</tr>
 	</table>
 </div>
-  <h4>Front-End and Technologies</h4>
+  <h5>Front-End and Technologies</h5>
   <div >
 	<table>
 		<tr>
@@ -43,7 +43,7 @@
 		</tr>
 	</table>
 </div>
-  <h4>Development and Testing Tools</h4>
+  <h5>Development and Testing Tools</h5>
   <div >
 	<table>
 		<tr>
@@ -53,7 +53,7 @@
 		</tr>
 	</table>
 </div>
-  <h4>Version Control and IDEs</h4>
+  <h5>Version Control and IDEs</h5>
   <div >
 	<table>
 		<tr>
@@ -64,7 +64,7 @@
 		</tr>
 	</table>
 </div>
-  <h4>CMS and Additional Tools</h4>
+  <h5>CMS and Additional Tools</h5>
   <div >
 	<table>
 		<tr>
@@ -75,7 +75,7 @@
 </section>
 
 <section>
-<h2>Connect With Me!</h2>
+<h3>Connect With Me!</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/hashinaakther/" target="blank">

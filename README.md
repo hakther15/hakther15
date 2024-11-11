@@ -10,7 +10,7 @@
     <li>Love to travel and learn about culture through history, scenery, food, and people</li>
     <li>Completed 30-week bootcamp in Java and 12-week workshop in Web Development and Responsive Design - and always thirsty to learn more!</li>
   </ul>
-  <h3>See my <a href="https://drive.google.com/file/d/1UaOOrqqB4ZVZsP3SBzrM_MrXSXpwoK8i/view?usp=sharing" alt="my resume" target="blank">resume </a>for more information!</h3>
+  <h3>See my <a href="https://drive.google.com/file/d/1UaOOrqqB4ZVZsP3SBzrM_MrXSXpwoK8i/view?usp=sharing" alt="my resume" target="_blank">resume </a>for more information!</h3>
   <h3>My Stacks</h3>
   <h5>Back-End and Frameworks</h5>
   <div >
@@ -79,19 +79,19 @@
 <h3>Connect With Me!</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/hashinaakther/" target="blank">
+  <a href="https://www.linkedin.com/in/hashinaakther/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40px" alt="LinkedIn"/>
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/hakther15/" target="blank">
+  <a href="https://github.com/hakther15/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40px" alt="GitHub"/>
   </a>
   &nbsp; &nbsp;
-  <a href="mailto:hakther15@gmail.com" target="blank">
+  <a href="mailto:hakther15@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="40px" alt="Email"/>
   </a>
   &nbsp; &nbsp;
-  <a href="https://developer-sina.netlify.app/" target="blank">
+  <a href="https://developer-sina.netlify.app/" target="_blank">
     <img src="https://i.pinimg.com/736x/54/d5/18/54d5185861df2209af2f6b85c0418d3d.jpg" width="40px" alt="portfolio"/>
   </a>
 </p>

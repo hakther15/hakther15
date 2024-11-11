@@ -6,10 +6,11 @@
   <h2>Inquisitive 🧐 driven 💪🏼 and life long learner 📚 - ready to code! 💻</h2>
   <h3>About me</h3>
   <ul>
-    <li>Passionate and caring mental health therapist for 8 years, ready to transition careers into software development and tech</li>
+    <li>Passionate and caring mental health therapist for 8 years, ready to transition my career into everlasting and growing world of software development and tech</li>
     <li>Love to travel and learn about culture through history, scenery, food, and people</li>
-    <li>Completed 30-week bootcamp in Java and 12-week workshop in Web Development and Responsive Design - and ready to learn more!</li>
+    <li>Completed 30-week bootcamp in Java and 12-week workshop in Web Development and Responsive Design - and always thirsty to learn more!</li>
   </ul>
+  <h3>See my <a href="https://drive.google.com/file/d/1OuWreS_nw9vmj-bwF1fM1GjaKk6i8iqS/view?usp=sharing" alt="my resume" target="blank">resume </a>for more information!</h3>
   <h3>My Stacks</h3>
   <h5>Back-End and Frameworks</h5>
   <div >
